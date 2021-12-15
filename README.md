@@ -1,6 +1,12 @@
 # SCI Reconstruction via Nonlocal Low Rank Tensor Train and 3-D Total Variation
 Code for **Total Variation Regularized Nonlocal Low-rank Tensor Train for Spectral Compressive Imaging**
 
+## Numerical Results
+<p align="center">
+<img src="https://github.com/han133/NLTT-TV/blob/main/data/results.png?height="300" width="800" raw=true">
+</p>
+Figure 1. Simulation results of HSIs with size of 512×512 from CAVE, ICVL and Harvard datasets used in simulation. 
+
 ## Usage
 - run our algorithm
 ```
