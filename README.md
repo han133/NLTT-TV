@@ -3,7 +3,7 @@ Code for **Total Variation Regularized Nonlocal Low-rank Tensor Train for Spectr
 
 ## Numerical Results
 <p align="center">
-<img src="https://github.com/han133/NLTT-TV/blob/main/data/results.png?height="300" width="700" raw=true">
+<img src="https://github.com/han133/NLTT-TV/blob/main/data/result.png?height="300" width="700" raw=true">
 </p>
 Table 1. Simulation results of HSIs with size of 512×512×31 from CAVE, ICVL and Harvard datasets used in simulation. 
 
