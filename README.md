@@ -1,7 +1,7 @@
 # SCI Reconstruction via Nonlocal Low Rank Tensor Train and 3-D Total Variation
 Code for **Total Variation Regularized Nonlocal Low-rank Tensor Train for Spectral Compressive Imaging**
 
-## Numerical Results
+## Numerical Result
 <p align="center">
 <img src="https://github.com/han133/NLTT-TV/blob/main/data/result.png?height="300" width="700" raw=true">
 </p>
