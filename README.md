@@ -7,7 +7,7 @@ Code for **Total Variation Regularized Nonlocal Low-rank Tensor Train for Spectr
 demo.m
 ```
 
-- run two baseline algorithms: GAP-TV adn DeSCI
+- run two baseline algorithms: GAP-TV and DeSCI
 ```
 test_desci_cassi.m
 ```
