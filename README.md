@@ -11,3 +11,7 @@ demo.m
 ```
 test_desci_cassi.m
 ```
+## Reference: Deep Learning-Based Methods
+* [Convolutional Autoencoder](https://github.com/KAIST-VCLAB/deepcassi)
+* [λ-net](https://github.com/xinxinmiao/lambda-net)
+* [PnP](https://github.com/zsm1211/PnP-CASSI)
